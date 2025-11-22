@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 5.2.4
+
+-   Prevent fatal error on widget screen.
+
+## 5.2.3
+
+-   Fix event bubbling error causing dialog not to show.
+
 ## 5.2.2
 
 ### Patches
